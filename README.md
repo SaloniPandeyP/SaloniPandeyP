@@ -20,6 +20,7 @@ I am a dedicated Computer Science Engineering student who enjoys transforming da
 ## 🌱 What I'm Learning
 
 - Machine Learning
+- Artificial Intelligence
 - Deep Learning
 - Data Analytics
 - SQL & Database Management
@@ -48,13 +49,13 @@ I am a dedicated Computer Science Engineering student who enjoys transforming da
 🔢 NumPy  
 📈 Matplotlib  
 📉 Seaborn  
-🤖 Scikit-Learn
 
 ### Tools
 💻 VS Code  
 📓 Jupyter Notebook  
 🔧 Git  
 🌐 GitHub
+
 
 ---
 
@@ -71,8 +72,6 @@ I am a dedicated Computer Science Engineering student who enjoys transforming da
 ---
 
 ## 🌐 Connect With Me
-
-📍 Sirohi, Rajasthan, India
 
 💼 LinkedIn  
 www.linkedin.com/in/saloni-pandey-693933289
