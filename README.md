@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋, I'm Saloni Pandey
 
-<!--
-**SaloniPandeyP/SaloniPandeyP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech Student
+📊 Data Science Intern at Upflairs
+💻 Passionate about Python, Data Science and Machine Learning
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Data Science
+- Machine Learning
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/saloni-pandey-693933289
+- Email: pandeysaloni498@gmail.com
+
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Deep Learning
+- Data Analytics
