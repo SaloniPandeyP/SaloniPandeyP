@@ -73,6 +73,11 @@ I am a dedicated Computer Science Engineering student who enjoys transforming da
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saloni-pandey-693933289)
+
+
 💼 LinkedIn  
 www.linkedin.com/in/saloni-pandey-693933289
 
